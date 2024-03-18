@@ -14,7 +14,7 @@ Project centers around exploring API consumption using GitHub's API V3 and curl,
 ## Technologies Used
 
 - **JavaScript:** A JavaScript library for building mobile user interfaces.
-- **Axios** 
+- **Axios** For making HTTP requests to fetch data from the GitHub API.
 
 ## Contact
 
