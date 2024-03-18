@@ -1,0 +1,25 @@
+{
+  "name": "tshediso-boshiana-186-consume-github-api-javascript",
+  "version": "1.0.0",
+  "description": "Consume Github API (186)\r For raw project instructions see: http://syllabus.africacode.net/projects/github-api-consume/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/Umuzi-org/Tshediso-Boshiana-186-consume-github-api-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umuzi-org/Tshediso-Boshiana-186-consume-github-api-javascript/issues"
+  },
+  "homepage": "https://github.com/Umuzi-org/Tshediso-Boshiana-186-consume-github-api-javascript#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "axios": "^0.27.2"
+  }
+}
